@@ -5,6 +5,7 @@ using Owin;
 namespace WebApplication1
 {
     // sample
+    // sample2
     public partial class Startup
     {
         public void Configuration(IAppBuilder app)
