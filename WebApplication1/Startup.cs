@@ -4,6 +4,7 @@ using Owin;
 [assembly: OwinStartupAttribute(typeof(WebApplication1.Startup))]
 namespace WebApplication1
 {
+    // sample
     public partial class Startup
     {
         public void Configuration(IAppBuilder app)
